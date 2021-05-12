@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACC,QAAS,CACT,SAAU,CACV,qBAAsB,CACtB,eACD,CAEA,EACC,kBACD","file":"main.13dc9009.chunk.css","sourcesContent":["html {\r\n\tmargin: 0;\r\n\tpadding: 0;\r\n\tbox-sizing: border-box;\r\n\tfont-size: 62.5%;\r\n}\r\n\r\n* {\r\n\tbox-sizing: inherit;\r\n}\r\n"]}
